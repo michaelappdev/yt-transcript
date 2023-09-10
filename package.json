@@ -1,9 +1,9 @@
 {
-    "name": "youtube-transcript-extractor",
-    "version": "1.0.0",
-    "description": "A simple Node.js module to extract the transcript of a YouTube video.",
-    "main": "app.js",
-    "dependencies": {
-      "youtube-transcript": "^0.6.1"
-    }
+  "name": "youtube-transcript-extractor",
+  "version": "1.0.0",
+  "description": "A simple Node.js module to extract the transcript of a YouTube video.",
+  "main": "app.js",
+  "dependencies": {
+    "youtube-transcript": "^1.0.6"
   }
+}
